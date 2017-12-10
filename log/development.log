@@ -1,0 +1,42 @@
+Started GET "/" for 127.0.0.1 at 2017-12-10 22:24:59 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/Coach/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/Coach/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (9.1ms)
+Completed 200 OK in 639ms (Views: 27.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-10 22:25:05 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/Coach/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/Coach/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (5.3ms)
+Completed 200 OK in 22ms (Views: 13.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-10 22:37:44 +0000
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 5ms (Views: 4.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-10 22:40:56 +0000
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 2ms (Views: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-10 22:41:45 +0000
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-12-10 22:42:57 +0000
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.7ms)
+
+
