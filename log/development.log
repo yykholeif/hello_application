@@ -40,3 +40,10 @@ Processing by ApplicationController#goodbye as HTML
 Completed 200 OK in 1ms (Views: 0.7ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-12-10 23:16:29 +0000
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 631ms (Views: 16.4ms)
+
+
